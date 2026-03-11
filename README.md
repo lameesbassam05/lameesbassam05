@@ -20,7 +20,7 @@
 ## 🐾 Meet My Little Buddy!
 
 <p align="center">
-
+  <pre>
 ╔════════════════════════════╗
 ║     🐾  MY BUDDY  🐾      ║
 ╠════════════════════════════╣
@@ -32,7 +32,7 @@
 ║   "Coding with love ❤️"   ║
 ║                            ║
 ╚════════════════════════════╝
-
+  </pre>
 </p>
 
 <h3 align="center">🐾 My Coding Companion 🐾</h3>
