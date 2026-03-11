@@ -20,13 +20,23 @@
 ## 🐾 Meet My Little Buddy!
 
 <p align="center">
-  <pre>
-  /\_/\
- ( o.o )
-  > ^ <
-  </pre>
-  <em>"My little coding buddy 🐾"</em>
+
+╔════════════════════════════╗
+║     🐾  MY BUDDY  🐾      ║
+╠════════════════════════════╣
+║                            ║
+║         /\_/\              ║
+║        ( ^.^ )             ║
+║         > ^ <              ║
+║                            ║
+║   "Coding with love ❤️"   ║
+║                            ║
+╚════════════════════════════╝
+
 </p>
+
+<h3 align="center">🐾 My Coding Companion 🐾</h3>
+<p align="center"><em>"Always watching over my code! 🐶❤️"</em></p>
 
 -----
 
