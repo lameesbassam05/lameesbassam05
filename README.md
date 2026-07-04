@@ -6,8 +6,7 @@
 </p>
  
 <p align="center">
-  <em>Quiet as rain..!🌧️ </em>           
-  <em>Deep as the ocean️...🌊</em>
+  <em>Quiet as rain..!🌧️ </em>           <em>Deep as the ocean️...🌊</em>
 </p>
 -----
 
